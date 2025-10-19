@@ -41,7 +41,17 @@
         "bsp.h": "c",
         "debug_log.h": "c",
         "ht_bsp_custom.h": "c",
-        "flash_qcx212_rt.h": "c"
+        "flash_qcx212_rt.h": "c",
+        "freertos.h": "c",
+        "ht_senseclima.h": "c",
+        "ht_mqtt_tls.h": "c",
+        "optional": "c",
+        "ostream": "c",
+        "system_error": "c",
+        "functional": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "mqttclient.h": "c"
     },
     "python.autoComplete.extraPaths": [
         "${workspaceFolder}/sources/poky/bitbake/lib",
